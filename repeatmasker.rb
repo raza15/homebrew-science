@@ -83,6 +83,6 @@ class Repeatmasker < Formula
   end
 
   test do
-    system "RepeatMasker"
+    system "#{bin}/RepeatMasker"
   end
 end
