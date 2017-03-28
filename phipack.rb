@@ -1,8 +1,8 @@
 class Phipack < Formula
   desc "Quick and robust genomic recombination test"
-  homepage "http://www.maths.otago.ac.nz/~dbryant/software.html"
+  homepage "https://www.maths.otago.ac.nz/~dbryant/software.html"
 
-  url "http://www.maths.otago.ac.nz/~dbryant/software/PhiPack.tar"
+  url "https://www.maths.otago.ac.nz/~dbryant/software/PhiPack.tar"
   version "2013-03-05"
   sha256 "bee88a90c081caac427f7bc206a59ae9a51b9d4affdb3a53750d7f9da109e193"
 
